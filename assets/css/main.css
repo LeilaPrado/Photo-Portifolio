@@ -2252,6 +2252,12 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
+#intro p {
+	font-size: 2ren;
+	line-height: 3.5ren;
+	text-shadow: 1px 1px 1px #000;
+}
+
 /* One */
 
 	#one {
